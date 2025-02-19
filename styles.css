@@ -32,15 +32,17 @@ body {
 }
 
 .text {
+  height: 131px;
+  width: 288px;
   text-align: center;
-  margin: 0 16px 16px;
+  padding: 0 16px 16px;
 }
 
 h1 {
   font-weight: 700;
   line-height: 120%;
   font-size: 22px;
-  margin-bottom: 16px;
+  padding-bottom: 16px;
   color: #1f314f;
 }
 
