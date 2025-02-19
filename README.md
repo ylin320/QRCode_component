@@ -20,7 +20,7 @@ This is my solution to the QR Code Component Challenge on Frontend Mentor. Front
 
 ### Screenshot\_截圖
 
-![QR code component screenshot](./screenshot.jpg)
+![QR code component screenshot](./preview.jpg)
 
 ### Links\_連結
 
